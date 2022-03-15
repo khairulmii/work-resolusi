@@ -1,6 +1,6 @@
 RENCANA PEMBELAJARAN AUTODIDAK
 - PHP Framework
-  >Laravel
+  > Slim
 - Golang
 - Rest Api
 - Api
